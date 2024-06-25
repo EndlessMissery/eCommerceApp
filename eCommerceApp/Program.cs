@@ -17,6 +17,7 @@ var configuration = new ConfigurationBuilder()
 builder.Services.AddDbContextFactory<AppDbContext>(options =>
 {
     options.UseSqlServer(configuration.GetConnectionString("DefaultConnection"));
+    options.EnableDetailedErrors();
     options.UseLazyLoadingProxies();
 }, ServiceLifetime.Scoped);
 
