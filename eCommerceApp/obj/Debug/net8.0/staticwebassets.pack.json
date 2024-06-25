@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/romanmnacek/RiderProjects/eCommerceApp/eCommerceApp/obj/Debug/net8.0/scopedcss/projectbundle/eCommerceApp.bundle.scp.css",
+      "PackagePath": "staticwebassets/eCommerceApp.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/romanmnacek/RiderProjects/eCommerceApp/eCommerceApp/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/Users/romanmnacek/RiderProjects/eCommerceApp/eCommerceApp/wwwroot/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/romanmnacek/RiderProjects/eCommerceApp/eCommerceApp/wwwroot/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/romanmnacek/RiderProjects/eCommerceApp/eCommerceApp/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.eCommerceApp.props",
+      "PackagePath": "build\\eCommerceApp.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.eCommerceApp.props",
+      "PackagePath": "buildMultiTargeting\\eCommerceApp.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.eCommerceApp.props",
+      "PackagePath": "buildTransitive\\eCommerceApp.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.eCommerceApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
